@@ -1,5 +1,4 @@
 
-```markdown
 #  Super Trunfo em C
 
 Simulação do cadastro de cartas do jogo Super Trunfo, utilizando dados de cidades e cálculos estatísticos.
