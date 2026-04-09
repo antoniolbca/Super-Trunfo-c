@@ -21,3 +21,7 @@ Simulação do cadastro de cartas do jogo Super Trunfo, utilizando dados de cida
 ##  Tecnologias
 
 - Linguagem C
+
+##  Objetivo
+
+- Praticar lógica de programação e manipulação de dados numéricos em C.
